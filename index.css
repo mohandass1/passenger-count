@@ -1,0 +1,43 @@
+h1{
+    color: rgb(10, 10, 12);
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(https://user-images.githubusercontent.com/1760227/186539545-2692dde8-9f09-45b2-bde4-042352f366d9.jpg);
+    background-position-x: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-style:italic;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://www.willkommen.tirol/wp-content/uploads/2025/07/Imagebild_Bus_Natur_01cVVT-1536x1024.jpg);
+    background-position: center;
+    
+}
+.container{
+    height: 400px;
+    width: 400px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    background-image:url(https://img.magnific.com/free-photo/realistic-scene-public-transportation_23-2151901421.jpg?semt=ais_hybrid&w=740&q=80);
+    background-position: center;
+    background-size: 400px;
+}
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaA_zwMNMz8GmCYzQju6NeFaBo-q47hmdYrk7w9LHKohRJ9BQkD-zKhRLH&s=10);
+    background-position: center;
+    margin-left: 10px;
+    
+}
+h2{
+    font-size: 50px;
+    color: red;
+}
